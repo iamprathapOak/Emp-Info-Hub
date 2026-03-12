@@ -20,3 +20,13 @@ In this project, I have implemented several core java concepts:
 * **Constructors:** Used **Parameterized Constructors** to initialize employee objects with specific data (Name, Id, Age, Experince) at the moment of creation.
 * **Arrays:** Utilized **Arrays** to store multiple employee records, enabling the system to manage a collection of data and display them efficiently using loops.
 * **Exception Handling:** Integrated **try-catch blocks** to handle potential input errors (Like entering text where a number is expected), ensuring the program dones't crash during execution.
+
+## Project Link
+
+You can find the repository here : [https://github.com/iamprathapOak/Emp-Info-Hub](https://github.com/iamprathapOak/Emp-Info-Hub)
+
+## Contact
+
+Developed by **Prathap** -[Your LinkedIn profile Link here]
+
+
