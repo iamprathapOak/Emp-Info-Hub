@@ -27,6 +27,6 @@ You can find the repository here : [https://github.com/iamprathapOak/Emp-Info-Hu
 
 ## Contact
 
-Developed by **Prathap** -[Your LinkedIn profile Link here]
+Developed by **Prathap** 
 
 
